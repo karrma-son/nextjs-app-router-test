@@ -5,6 +5,7 @@ import {
   InboxIcon,
 } from '@heroicons/react/24/outline';
 import { lusitana } from '@/app/ui/fonts';
+import { InvoicesTable } from '@/app/lib/definitions';
 
 const iconMap = {
   collected: BanknotesIcon,
